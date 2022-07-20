@@ -70,12 +70,17 @@ li{
     justify-content: center;
 }
 
+#about,
+#discord,
+#contact{
+    padding: 48px 0;
+}
+
 /*
 About
 */
 
 #about{
-    padding: 48px 0;
     background-color: #f8ffdc;
 }
 
@@ -113,3 +118,20 @@ img{
 .section__description--wrapper{
     padding: 0 24px;
 }
+
+/*
+Discord
+*/
+
+#discord{
+    background-color: #cefeff;
+}
+
+/*
+Contact
+*/
+
+#contact{
+    background-color: #dce9ff;
+}
+
